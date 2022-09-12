@@ -1,5 +1,5 @@
-# Final-year-project-front-end
-
+# Front-end project for final year students
+If you're looking for some inspiration for your final year front-end projects, look no further! In this repository, we'll take a look at some of the best front-end projects ideas for final-year students.
 ## Front End Ideas
 
 ### HTML & CSS
