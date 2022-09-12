@@ -153,9 +153,9 @@
 * Health Tracker App
 * Meme Generator
 * YouTube Clone
-* Development Documentation
+* Development Documentation 
 
- 
+ ##  A special thanks to⬇🙏
  A special thanks to [Praveen Kumar Purushothaman sir!](https://praveen.science/)🙇‍♂️🙏
  <br>
  ogiginal repository>>> [praveenscience/FinalYear-Project-Ideas!](https://github.com/praveenscience/FinalYear-Project-Ideas)
